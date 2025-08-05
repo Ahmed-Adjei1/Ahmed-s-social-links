@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Ahmed-Adjei1/Ahmed-s-social-links)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://ahmed-adjei1.github.io/Ahmed-s-social-links/)
 
 ## My process
 
