@@ -28,6 +28,9 @@ p {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  /* css updated to get rid of ul bullet space. */
+  margin: 0;
+  padding: 0;
 }
 
 a {
