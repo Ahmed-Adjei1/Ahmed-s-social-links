@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-[focus: \Update Designs\focus.png]
+[focus: /Update Designs/focus.png]
 [hover: /Update Designs/hover.png]
 [mobile: /Update Designs/Mobile.png]
 [desktop: /Update Designs/desktop.png]
